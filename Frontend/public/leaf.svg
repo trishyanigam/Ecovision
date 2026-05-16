@@ -1,0 +1,30 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (optional, remove if you want transparent) -->
+  <!-- <rect width="200" height="200" fill="#ffffff" /> -->
+
+  <!-- Leaf shape -->
+  <path d="M100 10
+       C 50 20, 20 60, 30 110
+       C 40 160, 80 185, 110 190
+       C 140 185, 170 160, 180 120
+       C 185 80, 160 40, 120 20
+       C 110 15, 105 12, 100 10 Z" fill="#2ecc71" stroke="#1e8449" stroke-width="3"></path>
+
+  <!-- Central vein -->
+  <path d="M100 20
+       C 95 60, 90 100, 85 145" fill="none" stroke="#145a32" stroke-width="3" stroke-linecap="round"></path>
+
+  <!-- Side veins -->
+  <path d="M93 55
+       C 75 60, 60 70, 48 85" fill="none" stroke="#196f3d" stroke-width="2" stroke-linecap="round"></path>
+  <path d="M90 80
+       C 72 85, 58 95, 47 110" fill="none" stroke="#196f3d" stroke-width="2" stroke-linecap="round"></path>
+  <path d="M88 105
+       C 70 112, 58 125, 50 140" fill="none" stroke="#196f3d" stroke-width="2" stroke-linecap="round"></path>
+  <path d="M87 130
+       C 72 140, 63 150, 57 162" fill="none" stroke="#196f3d" stroke-width="2" stroke-linecap="round"></path>
+
+  <!-- Stem -->
+  <path d="M85 145
+       C 82 160, 78 172, 72 185" fill="none" stroke="#6e2c00" stroke-width="4" stroke-linecap="round"></path>
+</svg>

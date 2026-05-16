@@ -1,0 +1,33 @@
+# Node_modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+firebaseServiceAccount.json
+
+# Uploaded files (you don’t want these on GitHub)
+uploads/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Database dumps
+*.sqlite
+*.db
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional IDE folders
+.idea/
+.vscode/
+
+# Dist if you build TypeScript (ignore if JS only)
+dist/
